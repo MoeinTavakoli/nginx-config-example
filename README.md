@@ -11,8 +11,8 @@ Additionally, advanced configuration and custom development-related content can 
 ### installation 
 
 ```bash
-apt-get update
-apt-get intsall nginx
+sudo apt-get update
+sudo apt-get intsall nginx
 ```
 
 ### Configuration 
