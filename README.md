@@ -12,7 +12,7 @@ Additionally, advanced configuration and custom development-related content can 
 
 ```bash
 sudo apt-get update
-sudo apt-get intsall nginx
+sudo apt-get install nginx
 ```
 
 ### Configuration 
